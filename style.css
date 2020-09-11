@@ -1,0 +1,60 @@
+body{
+    background-color: hsl(210, 46%, 95%);
+    font-family: 'Manrope', sans-serif;
+}
+.logo{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: 300px;
+    position: relative;
+    top: 160px
+}
+.head, .content, .credit{
+    margin-left: 555px;
+    position:relative;
+    bottom: 85px;
+    background-color: white;
+    height: 83px;
+    width: 500px;
+    
+}
+.head{
+    font-weight: bold;
+    font-size: 25px;
+}
+.avatar{
+    border-radius: 50%;
+    width: 45px;
+}
+.credith{
+    position: relative;
+    bottom: 2px;
+    left: 1px;
+}
+.share{
+    position: relative;
+    left: 450px;
+    bottom: 30px;
+}
+.attribution{
+    text-align: center;
+}
+.shareicon{
+    background-color: hsl(214, 17%, 51%);
+    width: 125px;
+    height: 65px;
+    border-radius: 5px;
+    position: relative;
+    left: 950px;
+    bottom: 200px;
+    display: none;
+}
+.icons{
+    position: relative;
+    left: 23px;
+    top: 20px;
+}
+span{
+    filter: brightness(70%);
+}
