@@ -1,6 +1,8 @@
 body{
     background-color: hsl(210, 46%, 95%);
     font-family: 'Manrope', sans-serif;
+    min-width: 375px;
+    max-width: 1440px;
 }
 .logo{
     width: 250px;
