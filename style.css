@@ -60,7 +60,7 @@ body{
 span{
     filter: brightness(70%);
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:360px){
 Body{
     width: 100%;
     overflow-x: hidden;
