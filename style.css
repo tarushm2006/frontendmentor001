@@ -64,5 +64,6 @@ span{
 Body{
     width: 100%;
     overflow-x: hidden;
+    Background-color: white;
 }
 }
